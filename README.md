@@ -29,5 +29,5 @@ By restricting access to the local network, Prometheus ensures that your familyâ
 ### Installation  
 Clone this repository:  
 ```bash
-git clone https://github.com/yourusername/prometheus.git
+git clone https://github.com/FxkeMoney/prometheus.git
 cd prometheus
